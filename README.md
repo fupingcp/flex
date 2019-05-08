@@ -2,8 +2,8 @@
 弹性盒子
 Flex 布局语法教程
 分类 编程技术
-网页布局（layout）是CSS的一个重点应用。
-
+网页布局（布局）是CSS的一个重点应用。
+增加参考链接   https://www.cnblogs.com/qcloud1001/p/9848619.html
 
 
 布局的传统解决方案，基于盒状模型，依赖 display属性 + position属性 + float属性。它对于那些特殊布局非常不方便，比如，垂直居中就不容易实现。
